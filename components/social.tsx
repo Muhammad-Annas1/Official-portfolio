@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin,  } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaWhatsapp,  } from 'react-icons/fa'
 import Link from 'next/link'
 import { FaXTwitter } from 'react-icons/fa6'
 import { SiFiverr } from 'react-icons/si'
@@ -13,13 +13,14 @@ const socialLinks = [
     path: 'https://www.linkedin.com/in/muhammad-annas-1266652a1/'
   },
   {
-    icon: <SiFiverr className='text-2xl' />,
-    path: ' https://www.fiverr.com/frelancer_anas'
+    icon: <FaWhatsapp />,
+     path: 'https://wa.me/923333521650'
   },
   {
-    icon: <FaXTwitter />,
-    path: '#'
+    icon: <SiFiverr className='text-2xl' />,
+    path: ' https://www.fiverr.com/frelancer_anas'
   }
+  
 ]
 const Social = () => {
   return (
