@@ -16,7 +16,7 @@ const Hero = () => {
           </h1>
           <div className="py-6 text-lg md:text-xl">
             <p>
-              Muhammad Annas is a multi-talented professional with expertise in Biomedical Engineering, Graphic Designing, and Frontend Development. Specializes in Next.js, React, Tailwind CSS, and TypeScript, creating visually appealing and functional web applications. I offer freelancing services in Frontend Development, Graphic Designing, and Content Writing.
+              Muhammad Annas is a multi-talented professional with expertise in Biomedical Engineering, Graphic Designing, and Frontend Development. Specializes in Next.js, React, Tailwind CSS, and TypeScript, as well as Python creating visually appealing and functional web applications. I offer freelancing services in Frontend Development, Graphic Designing, and Content Writing.
             </p>
           </div>
 
