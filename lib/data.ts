@@ -15,7 +15,7 @@ export const projectsData = [
   {
     id: 2,
     image: '/books.png',
-    category: 'Next.js/React/TailwindCSS',
+    category: 'Next.js/React/TailwindCSS/API',
     title: ' Books API Integration',
     description:
       'A Books API is a web service that allows users to add, retrieve, update, and delete book records efficiently. It provides structured access to book data, making it useful for libraries, bookstores, and reading apps.',
@@ -58,6 +58,23 @@ export const projectsData = [
     description: 'This is a sleek and responsive watch website built using Next.js, React, and Tailwind CSS. It showcases a collection of premium watches with an intuitive design, ensuring a seamless browsing experience across all devices.',
     vercelLink: 'https://watch-website-rosy.vercel.app/'
   },
+  {
+    id: 7,
+    image: '/encryption.png',
+    category: 'Python/Streamlit/Cryptography',
+    title: ' Secure Data Encryption System',
+    description: 'This is a sleek and responsive data encryption system built using Python and Streamlit and cryptography library for data encryption. It provides a secure and intuitive interface for encrypting and decrypting data, ensuring a seamless and user-friendly experience across all devices.',
+    vercelLink: 'https://mainpy-pzcufxoro95uw4yntrkdwf.streamlit.app/'
+  },
+{
+    id: 8,
+    image: '/unit.png',
+    category: 'Python/Streamlit',
+    title: ' Simple Unit Converter',
+    description: 'A Simple Unit Converter is a user-friendly tool that allows users to convert various units of measurement, such as kilograms, meters, and more. It provides a straightforward interface for quick and accurate conversions.',
+    vercelLink: 'https://unit-converterpy-82buuoez7fcdzbbfnvtvdy.streamlit.app/'
+  },
+
 
 
 
